@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wodnjse&theme=vue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wodnjse&theme=vue)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodnjse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
