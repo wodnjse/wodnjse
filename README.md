@@ -1,6 +1,6 @@
 # Hi <img src="https://user-images.githubusercontent.com/89503906/157695583-a54ea60c-b939-4422-aad8-d718fd66f4f0.gif"  width="35" height="35"/> I'm Jaewon Kim
 
-<li>An aspiring high school *SUPERDUPER* Junior-Developer who wants to become a Senior-Developer</li>
+An aspiring high school *SUPERDUPER* Junior-Developer who wants to become a Senior-Developer
 <!--👶 I'm a high school *SUPERDUPER* Junior-Developer 👶 who wants to become a Seinior-Developer-->
 <!--
 **wodnjse/wodnjse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
