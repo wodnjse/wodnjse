@@ -1,5 +1,5 @@
 # Hi there 👋
-👶 I'm a *SUPERDUPER* Junior-Developer 👶
+👶 I'm a high school *SUPERDUPER* Junior-Developer 👶 who wants to become a Seinior-Developer
 <!--
 **wodnjse/wodnjse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
