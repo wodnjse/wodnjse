@@ -1,4 +1,4 @@
-# Hi there 👋 <img src="https://user-images.githubusercontent.com/89503906/157695583-a54ea60c-b939-4422-aad8-d718fd66f4f0.gif"  width="20" height="20"/>
+# Hi there 👋 <img src="https://user-images.githubusercontent.com/89503906/157695583-a54ea60c-b939-4422-aad8-d718fd66f4f0.gif"  width="40" height="40"/>
 
 I'm an aspiring high school *SUPERDUPER* Junior-Developer who wants to become a Senior-Developer
 <!--👶 I'm a high school *SUPERDUPER* Junior-Developer 👶 who wants to become a Seinior-Developer-->
