@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wodnjse&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodnjse)
