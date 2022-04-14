@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 ## 🛠 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wodnjse&theme=codeSTACKr)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodnjse&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
