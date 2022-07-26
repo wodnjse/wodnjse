@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ## 🛠 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wodnjse&theme=codeSTACKr)  
-[![wodnjse's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnjse)](https://github.com/anuraghazra/github-readme-stats)
+[![wodnjse's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnjse&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
