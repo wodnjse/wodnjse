@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🛠 Stats
-[![wodnjse's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnjse&theme=codeSTACKr &hide=issues))](https://github.com/anuraghazra/github-readme-stats)
+[![wodnjse's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnjse&theme=codeSTACKr&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
