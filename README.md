@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🛠 Stats
-[![wodnjse's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnjse&theme=codeSTACKr&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wodnjse&theme=tokyonight)
 
-[![wodnjse's github activity graph](https://activity-graph.herokuapp.com/graph?username=wodnjse&theme=xcode)](https://github.com/wodnjse/github-readme-activity-graph)
+[![wodnjse's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnjse&theme=tokyonight&hide=issues&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![wodnjse's github activity graph](https://activity-graph.herokuapp.com/graph?username=wodnjse&theme=xcode)](https://github.com/wodnjse/github-readme-activity-graph)-->
 
 
 <p align="center">
